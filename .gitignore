@@ -6,9 +6,9 @@ Homework2.dll
 Homework2.exe
 Homework2.pdb
 Homework2.runtimeconfig.json
+Homework2.csproj
 project.assets.json
 project.nuget.cache
-Homework2.csproj
 First lesson.csproj
 First lesson.deps.json
 First lesson.dll
@@ -20,3 +20,12 @@ First lesson.csproj.nuget.g.targets
 project.assets.json
 project.nuget.cache
 First lesson.csproj
+Homework3.csproj.nuget.dgspec.json
+Homework3.csproj.nuget.g.props
+Homework3.csproj.nuget.g.targets
+Homework3.deps.json
+Homework3.dll
+Homework3.exe
+Homework3.pdb
+Homework3.runtimeconfig.json
+Homework3.csproj

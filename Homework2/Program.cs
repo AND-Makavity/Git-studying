@@ -1,6 +1,6 @@
-﻿int a1 = new Random().Next(1, 10);
-int a2 = new Random().Next(1, 10);
-int a3 = new Random().Next(1, 10);
+﻿int a1 = new Random().Next(1, 100);
+int a2 = new Random().Next(1, 100);
+int a3 = new Random().Next(1, 100);
 int max = a1;
 
 if (a2 > max) max = a2;
