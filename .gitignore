@@ -1,6 +1,11 @@
 Homework2.csproj.nuget.dgspec.json
 Homework2.csproj.nuget.g.props
 Homework2.csproj.nuget.g.targets
+Homework2.deps.json
+Homework2.dll
+Homework2.exe
+Homework2.pdb
+Homework2.runtimeconfig.json
 project.assets.json
 project.nuget.cache
 Homework2.csproj
